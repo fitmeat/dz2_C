@@ -1,5 +1,5 @@
 ﻿Console.Clear();
-Console.WriteLine("Введите число");//645
+Console.WriteLine("Введите число");
 int n = int.Parse(Console.ReadLine());
 if(n<100 && n>-100){
     Console.WriteLine("Третьей цифры нет");
